@@ -7,9 +7,9 @@ This repository contains my personal solutions to LeetCode problems, categorized
 | Difficulty | Problems Solved |
 |------------|------------------|
 | Easy       | 1                |
-| Medium     | 1                |
-| Hard       | 1                |
-| **Total**  | **3**            |
+| Medium     | 0                |
+| Hard       | 0                |
+| **Total**  | **1**            |
 
 ---
 
@@ -21,20 +21,15 @@ This repository contains my personal solutions to LeetCode problems, categorized
 
 ---
 
-## 🧠 Example Problems
+## Example Problems
 
-### ✅ Two Sum (Easy)
+###  Two Sum (Easy)
 File: `easy/1_two_sum.py`  
 Topic: Hash Map, Array
 
-### ✅ Add Two Numbers (Medium)
+### Add Two Numbers (Medium)
 File: `medium/2_add_two_numbers.py`  
 Topic: Linked List, Math
 
 ---
 
-## 🚀 How to Use
-
-- Clone the repo
-- Browse the folders
-- Read the comments for problem descriptions
