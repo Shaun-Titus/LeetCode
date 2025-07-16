@@ -21,9 +21,9 @@ This repository contains my personal solutions to LeetCode problems, categorized
 
 ## 📂 Folder Structure
 
-- `easy/` – Easy problems
-- `medium/` – Medium problems
-- `hard/` – Hard problems
+- `C/` –
+- `Java/` –
+- `Python/` –
 
 ---
 
