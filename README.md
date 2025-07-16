@@ -21,10 +21,13 @@ This repository contains my personal solutions to LeetCode problems, categorized
 
 ## 📂 Folder Structure
 
-- `easy/` – Easy problems
-- `medium/` – Medium problems
-- `hard/` – Hard problems
-
+LeetCode/
+├── python/
+│ └── 0001_two_sum_easy.py
+├── cpp/
+│ └── ...
+├── java/
+│ └── ...
 ---
 
 ## Example Problems
